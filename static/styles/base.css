@@ -294,7 +294,7 @@ main {
     display: flex;
     flex-direction: row;
     transition: all ease-in 0.2s;
-    z-index: 1;
+    z-index: 3;
     margin: 0;
     padding: 0;
 }
@@ -346,7 +346,7 @@ main {
         border: none;
         margin: 0;
         padding: 10px;
-        z-index: 1;
+        z-index: 3;
         width: fit-content;
         margin-left: auto;
         margin-right: auto;
