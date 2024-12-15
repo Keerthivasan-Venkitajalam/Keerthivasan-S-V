@@ -63,7 +63,7 @@ To view the portfolio locally:
    ```  
 3. Open `index.html` in any modern browser.  
 
-Alternatively, visit the live site [https://keerthivasan-venkitajalam.github.io/Keerthivasan-Venkitajalam-Portfolio/].  
+Alternatively, visit the live site [[https://keerthivasan-venkitajalam.github.io/Keerthivasan-Venkitajalam-Portfolio/](https://keerthivasan-venkitajalam.github.io/Keerthivasan-S-V/)].  
 
 ## Acknowledgments  
 
